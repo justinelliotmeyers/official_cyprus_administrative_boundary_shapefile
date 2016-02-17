@@ -1,0 +1,8 @@
+source:
+http://inspire.cyprus.moi.gov.cy/geocatalog
+
+license:
+
+None Stated; 
+parent page disclamer
+http://www.geoportal.gov.cy/MOI/DLS/geoportal/geoportal.nsf/disclaimer_gr/disclaimer_gr?OpenDocument
